@@ -17,9 +17,6 @@ title: Crypto-Leap |Blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
  I got you covered,here you can learn everything you need about crypto!
- -Important news
- -Tools to get started
- -Know how
 twitter_username: leap-space
 github_username: SpaceLeap-debug
 minimal_mistakes_skin: default
@@ -61,7 +58,7 @@ plugins:
 author:
   name   : "Gab Leap"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "/home/thegreatgab/Immagini/Web-Pic/Gab-Leap-Logo.png."
+  bio    : "Every day is like being on a rollercoaster and I like it"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -76,7 +73,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/gab.salvoo"
     - label: "Telegram"
-      icon: "fas fa-fw fa-telegram"
+      icon: "fas fa-fw fa-telegram-link"
       url: "https://t.me/cryptodesknews"
 
 footer:
