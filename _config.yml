@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Crypto-Leap |Blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+ I got you covered,here you can learn everything you need about crypto!
+ -Important news
+ -Tools to get started
+ -Know how
+twitter_username: leap-space
+github_username: SpaceLeap-debug
 minimal_mistakes_skin: default
 search: true
 
@@ -58,34 +59,37 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Gab Leap"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "/home/thegreatgab/Immagini/Web-Pic/Gab-Leap-Logo.png."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://gableap.carrd.co"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/leap_space"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/SpaceLeap-debug"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/gab.salvoo"
+    - label: "Telegram"
+      icon: "fas fa-fw fa-telegram"
+      url: "https://t.me/cryptodesknews"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/leap_space"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/SpaceLeap-debug"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/gab.salvoo"
 
 defaults:
   # _posts
