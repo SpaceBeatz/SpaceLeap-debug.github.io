@@ -73,7 +73,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/gab.salvoo"
     - label: "Telegram"
-      icon: "fas fa fa-telegram-link"
+      icon: "https://web.telegram.org/favicon.ico"
       url: "https://t.me/cryptodesknews"
 
 footer:
